@@ -69,7 +69,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="@dimen/marginLeft"
-                android:autoLink="web"
                 android:text="@string/website" />
             <Button
                 android:layout_width="match_parent"
