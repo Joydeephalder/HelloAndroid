@@ -64,12 +64,13 @@
                 android:layout_height="wrap_content"
                 android:text="@string/addressLine3"
                 android:layout_marginLeft="@dimen/marginLeft"/>
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/website"
                 android:layout_marginLeft="@dimen/marginLeft"
-                />
+                android:autoLink="web"
+                android:text="@string/website" />
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
