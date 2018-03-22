@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="business_name_textSize">24sp</dimen>
+    <dimen name="marginLeft">16dp</dimen>
+    <dimen name="business_name_marginBottom">16dp</dimen>
+    <dimen name="buttonMargin">8dp</dimen>
+</resources>
